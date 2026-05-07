@@ -4920,3 +4920,45 @@ https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L3-L7	http_429
 http://87.107.45.9:53/	request_failed
 https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/raw/main/sub/Iran/config.txt	http_404
 http://188.213.65.54:53/	request_failed
+
+=== 2026-05-08 05:12:46 - 失效订阅 (37 个) ===
+https://www.applnn.com/41262.html	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=10b8630b112a47dd945ed05d89e85cd0	http_403
+http://79.127.170.15/	request_failed
+http://173.245.58.0/	http_403
+http://156.146.33.97/	request_failed
+http://207.211.215.145/	request_failed
+http://79.127.211.213/	request_failed
+http://217.219.133.161/	request_failed
+http://149.102.250.14/	request_failed
+http://79.127.170.12/	request_failed
+https://punkpaste.ir/f/20260507-0DMzaO-nkws-cm9e4s	request_failed
+https://punkpaste.ir/f/20260507-I5gNFvWb9zk-29f4z1	request_failed
+http://188.122.68.216/	request_failed
+http://185.140.4.76/	request_failed
+http://74.63.24.208/	request_failed
+http://37.148.15.105/	request_failed
+http://83.212.7.243/	request_failed
+http://44.244.148.52/	request_failed
+http://216.147.121.181/	request_failed
+http://74.80.77.246/	request_failed
+http://74.80.77.245/	request_failed
+http://74.63.24.205/	request_failed
+http://74.63.24.211/	request_failed
+http://85.133.207.5/	request_failed
+http://62.60.136.105/	request_failed
+http://188.122.68.218/	request_failed
+http://172.253.12.145/	request_failed
+http://216.147.121.35/	request_failed
+http://185.129.215.43/	request_failed
+http://46.164.99.102/	request_failed
+http://172.253.228.150/	request_failed
+http://74.120.14.49/	request_failed
+http://74.63.24.206/	request_failed
+http://74.80.77.247/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28%28fk=%7B%22%28%2833%22%3A%22pM%22%2C%22%28%2835w%22%3A%223t8w8qq8%22%2C%22%28%28W.%22%3A%22%22%2C%22%28%28%283%22%3A%22S4%22%2C%22%28%289W.%22%3A%22%22%7D	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%2A2i.=g	request_failed
+https://uploadgirl.ir/d/9f7c9410-1a56-4d39-9a27-c18f29ad4664	request_failed
+
+=== 2026-05-08 05:13:20 - 失效订阅 (1 个) ===
+https://hermes.xiaoyao-88.com/s/fc855e7d18c79fa73ba99ab4be30d088	request_failed
