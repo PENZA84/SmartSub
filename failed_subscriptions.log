@@ -8666,3 +8666,30 @@ https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=26d946c9357868fa6703941b70038621	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=6a845ed6787e4060626e7443e064a041	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=3fdfe2c85e499312001c4e8c1631b494	request_failed
+
+=== 2026-05-23 05:19:13 - 失效订阅 (17 个) ===
+https://downloads.onelighter.site/api/v1/client/subscribe?token=ff924684cf22a4ced8d89476014d3d03&amp;flag=meta	http_403
+https://subconverters.com/sub?target=auto&amp;url=vless%3A%2F%2Fceb21013-2411-414e-a1c3-41214bb90a8c%40154.29.145.163%3A443%3Fencryption%3Dnone%26security%3Dreality%26sni%3Dwww.amazon.com%26fp%3Dchrome%26pbk%3DHqjulbW6bMqRbx6we7enc965xGTeV-SCwlZRVEFJQyU%26sid%3D88%26flow%3Dxtls-rprx-vision%26type%3Dtcp%23%E7%BE%8E%E5%9B%BD%E5%8E%9F%E7%94%9FIP%7C&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&amp;emoji=true&amp;list=false&amp;xudp=false&amp;udp=false&amp;tfo=false&amp;expand=true&amp;scv=false&amp;fdn=false	http_400
+https://subconverters.com/sub?target=auto&amp;url=vless%3A%2F%2F81de4e23-345a-4576-8e19-07751279df59%40154.83.95.241%3A443%3Fencryption%3Dnone%26security%3Dreality%26sni%3Dwww.amazon.com%26fp%3Dchrome%26pbk%3D7f-XlTsKRlv6CyWeSrcCwvO9_P4Fy6qGKcPIYNNDeFg%26sid%3D88%26flow%3Dxtls-rprx-vision%26type%3Dtcp%23%E6%97%A5%E6%9C%AC%E7%9B%B4%E8%BF%9E%7C&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&amp;emoji=true&amp;list=false&amp;xudp=false&amp;udp=false&amp;tfo=false&amp;expand=true&amp;scv=false&amp;fdn=false	http_400
+http://92.123.106.10/	http_400
+http://184.51.252.141/	http_400
+http://95.101.78.57/	http_400
+http://88.221.169.217/	http_400
+http://2.18.248.238/	http_400
+http://23.58.223.210/	http_400
+http://23.50.180.206/	http_400
+http://46.245.76.162/	request_failed
+https://seup.shop/f/s4zxu	request_failed
+http://87.247.177.23/	request_failed
+http://79.175.169.61/	request_failed
+http://2.123.106.90/	request_failed
+http://5.160.128.14/	request_failed
+http://104.78.170.1/	request_failed
+
+=== 2026-05-23 05:19:42 - 失效订阅 (6 个) ===
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=8f86a28ed7558f2684fda45213eb84dc	request_failed
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=6de604c2cf14d0ab4bd84117e6bb93a1	request_failed
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=f6645026ec5b4bf975ea5791b40b0e4a	request_failed
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=6b76943778588067b65a722e78c3c4d8	request_failed
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=943d2555ab735d3fb8a5fd555f6a1f87	request_failed
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=e960f34012590c8fd184e9277c112403	request_failed
