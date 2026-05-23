@@ -8693,3 +8693,36 @@ https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=f6645026ec5b4bf9
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=6b76943778588067b65a722e78c3c4d8	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=943d2555ab735d3fb8a5fd555f6a1f87	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=e960f34012590c8fd184e9277c112403	request_failed
+
+=== 2026-05-24 05:04:28 - 失效订阅 (25 个) ===
+https://dad.xiaobaivpn.cyou/#/register?code=zYFrprkJ	request_failed
+https://pai.yt/clash	request_failed
+https://pai.yt/singbox	request_failed
+https://pai.yt/base64	request_failed
+http://2.17.35.24/	http_400
+http://23.200.88.76/	http_400
+http://2.16.1.145/	http_400
+http://2.23.118.153/	http_400
+http://95.100.177.52/	http_400
+http://2.17.35.163/	http_400
+http://2.17.35.40/	http_400
+http://2.17.35.217/	http_400
+http://95.101.133.128/	http_400
+http://23.216.77.73/	http_400
+http://2.17.106.118/	http_400
+http://2.17.100.234/	http_400
+http://172.234.159.31/	request_failed
+http://2.16.53.65/	http_400
+http://2.17.97.137/	http_400
+http://2.17.106.137/	http_400
+http://92.123.106.17/	http_400
+http://2.16.53.57/	http_400
+http://2.20.254.217/	http_400
+http://bbe-getimage.akamaized.ne/	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L27-L27	http_429
+
+=== 2026-05-24 05:05:00 - 失效订阅 (4 个) ===
+https://sub.pai.yt/clash	request_failed
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=e7ef5be2baf264e70db98365c7c0f632	request_failed
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=5c0ea21c1c6b4de86603e8fb4e2c54db	request_failed
+https://pai.yt/base64?preset=other	request_failed
