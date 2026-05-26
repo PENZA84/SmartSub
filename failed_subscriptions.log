@@ -8821,3 +8821,57 @@ http://makbitsub.aztt.ir/	request_failed
 https://s1-u2-b3.484845845.xyz/s/34ee269c1f061eaba048c5820c2e73f2	http_403
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=1da6538770cb2bde323d95c919a505ca	request_failed
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=8ced979417400f3b53a7f752790a58c1	request_failed
+
+=== 2026-05-27 05:55:24 - 失效订阅 (47 个) ===
+http://gz-cloud.top/	http_403
+https://flyfish-network.de/	request_failed
+https://flyfish-network.de	request_failed
+https://www.anothervpn520.us.ci/#/register?code=1yJatJj6	request_failed
+http://47.76.247.126:4832/auth/register?code=LUQ4	http_502
+http://23.49.140.235/	http_400
+http://23.49.136.174/	http_400
+http://23.55.176.230/	http_400
+http://23.47.49.246/	http_400
+http://23.49.5.211/	http_400
+http://23.47.112.247/	http_400
+http://23.49.25.145/	http_400
+http://23.55.176.228/	http_400
+http://23.47.124.89/	http_400
+http://23.47.124.82/	http_400
+http://23.49.22.132/	http_400
+http://23.49.140.191/	http_400
+http://23.47.112.185/	http_400
+http://23.49.109.91/	http_400
+http://23.47.124.76/	http_400
+http://23.47.124.73/	http_400
+http://23.47.124.91/	http_400
+http://23.47.124.92/	http_400
+http://doh.pub/	http_404
+http://1.12.12.12/32	http_404
+http://120.53.53.53/32	http_404
+http://119.29.29.29/32	http_404
+http://101.226.4.6/32	request_failed
+http://123.125.81.6/32	request_failed
+http://180.76.76.76/32	http_403
+http://218.30.118.6/32	request_failed
+http://223.6.6.6/32	http_404
+http://223.5.5.5/32	http_404
+http://download-porter.hoyoverse.com/	http_403
+http://aws-link20.liangxin1.xyz/	request_failed
+http://23.49.60.51/	request_failed
+http://23.49.60.65/	request_failed
+http://23.49.60.49/	request_failed
+http://23.49.60.57/	request_failed
+http://180.184.1.1/32	request_failed
+http://140.207.198.6/32	request_failed
+http://114.114.115.115/32	request_failed
+http://114.114.114.114/32	request_failed
+http://180.184.2.2/32	request_failed
+http://198.18.0.0/15	request_failed
+http://doh.360.cn/	request_failed
+http://dot.360.cn/	request_failed
+
+=== 2026-05-27 05:56:00 - 失效订阅 (3 个) ===
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=88b45934b9a8ee3ed24f30109247c6c4	request_failed
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=59d5423b24af05ada72a09928f1a5443	request_failed
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=1a52da8b94f2ffc6edaa47f215f54659	request_failed
