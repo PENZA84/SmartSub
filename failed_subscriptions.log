@@ -8975,3 +8975,15 @@ http://176.99.11.77/	request_failed
 === 2026-06-03 06:26:32 - 失效订阅 (2 个) ===
 https://apps.apple.com/us/app/documents-file-manager-docs/id364901807	request_failed
 https://RitzoBet_com	request_failed
+
+=== 2026-06-04 06:31:51 - 失效订阅 (7 个) ===
+https://tootooyun.vip/	request_failed
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE	http_404
+https://apps.apple.com/ru/app/sing-box-vt/id6673731168	request_failed
+https://github.com/miladtahanian/Config-Collector/raw/refs/heads/main/vless_iran.txt	http_404
+https://www.kitslabs.com/leafvpndownloads/LeafVPN-setup.exe?v=v1.0.7	http_403
+https://www.kitslabs.com/leafvpndownloads/LeafVPN.dmg?v=v1.0.7	http_403
+https://apps.apple.com/us/app/leaf-lightweight-proxy/id1534109007	request_failed
+
+=== 2026-06-04 06:32:29 - 失效订阅 (1 个) ===
+https://pwac.gzi8998-ddns0721.eu/api/v1/gzcloud/subscribe?token=8f44f73b56f83222ca14bc60ed1740c5	http_403
