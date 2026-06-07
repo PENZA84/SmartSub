@@ -9031,3 +9031,16 @@ http://4.8.16.0/	request_failed
 === 2026-06-07 05:13:51 - 失效订阅 (2 个) ===
 https://knjc.cfd/api/v1/client/subscribe?token=662722b63d86e8f8835d579281411c59	http_403
 https://v2rayse.com/fs/public/20260603/free-node-share-2000.txt	request_failed
+
+=== 2026-06-08 05:21:31 - 失效订阅 (11 个) ===
+https://tj.hhll.qqs.me/sub?token=ffe7859e91a11ed0cc6bc4338b7aa708	request_failed
+https://ss.hhll.qqs.me/sub?token=ea52e87317b95b726ba22b93581609ab	request_failed
+https://vl.hhll.qqs.me/sub?token=59a9e6eae4159a2a7672485c2c228cec	request_failed
+https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838	http_403
+https://huewfjisud.shops	request_failed
+https://huewfjisud.shops/	request_failed
+https://v2rayse.com/fs/public/20260531/free-node-share-2000.yaml	request_failed
+https://chatgpt.com&quot	request_failed
+https://global.fastly.com&quot	request_failed
+https://z-library.sk	http_503
+https://z-library.sk/	http_503
