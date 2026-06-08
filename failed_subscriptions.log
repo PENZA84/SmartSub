@@ -9044,3 +9044,13 @@ https://chatgpt.com&quot	request_failed
 https://global.fastly.com&quot	request_failed
 https://z-library.sk	http_503
 https://z-library.sk/	http_503
+
+=== 2026-06-09 05:58:47 - 失效订阅 (4 个) ===
+https://api-jx.02000.xin/jx?token=24e779f8ce6fe625561624fb7993ca0a	http_403
+https://cdn1.telesco.pe/file/64ddf3adf1.mp4?token=GBABQWB6bgEqUL9q6hKoOwbGa94NEwu5wu7s8RMZuEAFsciMPJBsZfGZZIIWbm8X6Nhd7ZIiQsiOjO61ih-s3JGbH1JDDaWHQHNU121qW853qjH6kmPMqtgfPEt0v9d6qzFO_bkOYYQzJuaOpCbf4FBf2O3GDZyW1_35Xbw8PGZveyVDh29oVy7KUHIluJx2NdRjEfghlGH7a5pGRtWU4wpd54jNxmgQEEzTPgGAwUy_c1kFMo-LEAirWuVtew1H_3LhgPUm7ZpmtTfsdhUX8-ewfVGi0j-j8G5DNL5UCRZnOYpCLMEYla4UbL20RuWnQE1UDs0uljT_TJVIIdVzzQ	http_502
+https://cdn1.telesco.pe/file/ZSwnGox9zmFf5j2XvVcj3ZR3yOH_nRdTCOuTgd3y_YEsT-jDVB_l8_pPUFFSLlCMpxhMgzFOHOXwAvGwJrcZgrFSZGB1eZuWFCk-Smda-x9k7It_Ucm89J5kjgjTE9c9JWIhOnamTgZQS5K_sjX28x2REp9WSd5m9acR-JZVMfjYR5FifWc7lYQoxrajT5cJVpY6QchbfDwFG2qY-CttRKKFDQ8B631_y5T2del8bYwEHq6NoX3Jr5vXGIqy5EDp4d4Fcmd8e6v7f7cfEZnTCfNHZQZiaEuJwvuWN1LobVArmBxb2RSav4X3nkNVZMaKajkPT_OPHi9QFagdnIxszg	http_502
+https://cdn1.telesco.pe/file/UXKoOlO5E3yRcppuZoShGZF4Te6Qls5ll4la06msAKEiuXmSoWCYfvRzs-ngozqcRR70lFAAfpBkKQ-Gf8IRfqY3CK64AHnAyi3YmT6Cl59b-QZo7QNzC6cUuye4buB_78XKFUXhO0abcocVSdvy5B1suD47exh1MtH2F7rzb1KWNYbIDlq7Mty97_RweP7O0ssjk8dp1YTD0x_7qEa0bXMXqGTRoOtjUYsdeHK2nMN7Ze_rtM0xEuoskxOIHhN7yg7yj4apSVLXopwkv42Uq14stGoLIjQCkaJcR4Nzl4BQKCi9a1aTPQ-OdeEnJYOil03ubAl8KcxzfzruA5mSbA	http_502
+
+=== 2026-06-09 05:59:24 - 失效订阅 (2 个) ===
+https://sub.shadowproxy66.workers.dev/sub/214abfe9-791e-44ba-bd8e-0afe298119f6#ShadowProxy66	http_404
+https://git.io/emzclash	http_404
