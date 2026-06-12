@@ -9209,3 +9209,19 @@ http://2.188.166.78/	request_failed
 http://37.191.84.162/	request_failed
 http://23.45.0.1/	request_failed
 http://23.67.0.1/	request_failed
+
+=== 2026-06-13 05:58:25 - 失效订阅 (11 个) ===
+https://www.applnn.com/24324.html	http_404
+https://www.applnn.com/47520.html	http_404
+https://www.applnn.com/47045.html	http_404
+https://www.applnn.com/36220.html	http_404
+https://www.applnn.com/42834.html	http_404
+https://sub.613888.xyz/profiles/honghongll	http_404
+https://danesh1118.github.io/gwiwgwfgdjdgeiy86wgdbdow6tebdieggohekwbdbmcnxmdkdiegeh5wgdidbskcbdofjktkfks/	http_404
+https://danesh1118.github.io/Hiddfy-jeisgwgeggwwgwksneoejydhdjee7w6wwgdjfkfojewyew7eyeidhdoshayjdesisj/	http_404
+https://danesh1118.github.io/jdsyeatfwhfndieu765tgdiehsihsifnfndoye76sgdjdoncfkdhshd/	http_404
+https://www.iptvsmarters.com/download?download=mac	request_failed
+https://www.iptvsmarters.com/download?download=windows_app	request_failed
+
+=== 2026-06-13 05:59:10 - 失效订阅 (1 个) ===
+https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4	http_403
