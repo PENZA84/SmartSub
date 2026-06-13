@@ -9225,3 +9225,19 @@ https://www.iptvsmarters.com/download?download=windows_app	request_failed
 
 === 2026-06-13 05:59:10 - 失效订阅 (1 个) ===
 https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4	http_403
+
+=== 2026-06-14 05:24:16 - 失效订阅 (9 个) ===
+https://api.v1.mk/sub?target=mixed&amp;url=https%3A%2F%2Fhktw.381209.xyz%3A10086%2Fhxlgxh888%2Feakqqykdfw7p12om&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&amp;emoji=true&amp;list=false&amp;xudp=false&amp;udp=false&amp;tfo=false&amp;expand=true&amp;scv=false&amp;fdn=false&amp;diyua=ShadowRocket	http_502
+https://url.fdjgnejw.lol/X7mQ2k9P/K8VT3MQ9XR2PN7CH4AW6ZL5UF7DY2SJ?token=fddc5b1ae1a2ee9684d8ec936c65def3	http_404
+https://www.wishtube.com/	http_403
+https://v2rayse.com	request_failed
+https://cdn4.telesco.pe/file/FsSgt2xUXPk0hoEUwXH8XQ1MOav3L-1EGdLIkX--iViXWkDn_An5Bb13xu3ptsIQqerRdmZWQNbqfdGHxvBrHwVET8W6oC3KokST_KRTSc1lo7hRjgs6rAPpvvb-p0aRsh0KdpEb-X7nux8GiYCc-cA0Ey9m8xdTZxJsGB33nhVlWIzteVABlibIlX3bAVz6RvOURIxFvwI7q8FdgmZW6V9iFTUyJSCL92y5SeqB70-p82SLIFHMN9x55LPCQUpzlLa4dm-QDtJsUIHVIInyj5EVwQo7e2CzEtIGWRJ2NFSSmDaU_rPlJmbj4BvQVYjSYoQfW0mh9tbyBl_-HXtYyQ	http_500
+http://v2rayN-windows-64-desktop.zip/	request_failed
+http://v2rayN-windows-arm64-desktop.zip/	request_failed
+http://v2rayN-windows-arm64.zip/	request_failed
+https://howdy.id/trojan-vpn/	http_403
+
+=== 2026-06-14 05:24:57 - 失效订阅 (3 个) ===
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=d88e46e821807d659060e139029cbb1c	request_failed
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=830ed342ac725ab4326dac30c22d3be6	request_failed
+https://v2rayse.com/fs/public/20260428/free-node-share-0800.txt	request_failed
