@@ -9241,3 +9241,15 @@ https://howdy.id/trojan-vpn/	http_403
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=d88e46e821807d659060e139029cbb1c	request_failed
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=830ed342ac725ab4326dac30c22d3be6	request_failed
 https://v2rayse.com/fs/public/20260428/free-node-share-0800.txt	request_failed
+
+=== 2026-06-15 05:23:43 - 失效订阅 (7 个) ===
+https://portal.f2vip.net/#/register?code=usE0kAjm	request_failed
+http://45.125.45.59:9999/?invitecode=pBbAEPxx	request_failed
+https://www.gstatic.com/generate_204	http_204
+http://rbtvplus18.pics/	http_403
+https://huanyuyunvip.com/#/register?code=yt6kJzWg	http_404
+https://apps.apple.com/us/app/smarters-player-lite/id1628995509	request_failed
+https://syjccloud.com/#/register?code=meDDt4z0	http_404
+
+=== 2026-06-15 05:24:26 - 失效订阅 (1 个) ===
+https://chuanyun-endpoint.cc/s/aa808d72d252c9eacab5699345e89aa7	http_403
