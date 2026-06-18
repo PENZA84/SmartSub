@@ -9290,3 +9290,10 @@ https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L33-L33	http_429
 
 === 2026-06-18 06:09:31 - 失效订阅 (1 个) ===
 https://sub-all-service.shop/sub/cmFzYWQtdW5saW1pdGVkLDE3ODA4OTcxOTQAntWImE_KH	request_failed
+
+=== 2026-06-19 06:22:38 - 失效订阅 (5 个) ===
+https://www.4f7kia.vip:7443/86796?i_code=13191013	request_failed
+https://a9xk2q.ofody.vip/cmcc/nnm/tb/qq/wx/10086/kygmwlmlmnsv/ofoNET86?token=b434b87d2cf3d83f1643cf11be2182ee	http_403
+https://www.4f7kia.vip:7443/70832?i_code=26645547	request_failed
+https://cdn4.telesco.pe/file/8983bce5d9.webp?token=AHnE-LDhUWP3eGl3bdPYW2QYE2LNUNNPq_cAhrDzmH_zqEWUw3jeHXUztERpLtlzg2jeWAmpp-c-Hsf_gCzoySHPlDym-eIDlRNmbwPbT-bN5IJ47UUA5gwclFaNEZR5ZHQFSH87RHwPlYbP9j_N64igR5hQwpv_1DhqZMstE6gWIV6ed-oohKaXA94zKPy_JWSCeAjDrxMHYfMJbVptxo6PQiiXLYsw3n6z3kzRsUbjoziyGt129eTGpdQEdlhtfnUbsGJwAPRod7gSP4KS3pghGK1sSyGHYJEz_45aDDubiDbCfcYztnslDhsV5xRiihU7IseIdBkat3QXmxgFAw	http_500
+https://cdn1.telesco.pe/file/qm2f_6l-10KutSQa-W9U2qp21Xo5r6yBsFYVu7OiC__En9QVcX8ljM3GJmEpUeV_p8-yaNpRqh5b4fdulDe5uBA0q7VFdzMUxqnIg1db21kmq2j8HeFvVTjLBA_YlMmnCRdhTPwi_ahwjSQLdcwZiPFXs-jmnLF21XtiSjocPPTuWMhmgzdQNvrRxxWDraIwscEYh8v3-uJQIHsGNg-3dRRZwOzi2tSL__d2-93MiOOR_7G9kCshJ3uAOEywRYe5pI5PuMTWDgu2SSC7GtRPvD3MbnoGAAGiM1PTiAag4nL8JAg6NuTE1vVkYftZSbNqB9-fmTpfTf4ThXOtiCxdIg	http_502
