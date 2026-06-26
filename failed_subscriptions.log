@@ -9405,3 +9405,23 @@ https://66.meituanssp.xyz/#/register?code=hhPRVMRA	request_failed
 
 === 2026-06-26 05:36:01 - 失效订阅 (1 个) ===
 https://mojie.app/api/v1/client/subscribe?token=a26e13cfd09ec11df8f2900af4693859	request_failed
+
+=== 2026-06-27 05:14:59 - 失效订阅 (18 个) ===
+https://sub.zlwl.org/zlwl/XJtLGdgZnKL0I7h39pbgikRz?sub=3	http_403
+https://0b96e976-9ec3-44c0-aa2b-30bf8b0792ea.com/api/v1/client/subscribe?token=8670d44607198a2578e02af06077b2eb	http_403
+https://api.jiux001.cc/jx?token=0e126b7ca9c9d7039f7a401370411523	http_403
+https://api.jiux001.cc/jx?token=0d98893eaed2dac82b765a7b3da4f2c4	http_403
+https://api.jiux001.cc/jx?token=62443cd51c17b9b78132a1ec12d55c37	http_403
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/f78730608d4eff625a5764096e88d049	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/26f9503c9da546a29765c16006e3b73b	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/11d881adb26ebbfeb8771b1846126ebc	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/1c9b2fa555c3b573f3945162ac8ed163	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/7c35babf09a9b3973aefd12841e1df5f	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/65ac346ffb605c9a24df2124f9f6baf3	http_500
+https://bgpview.io/asn	request_failed
+https://cdn4.telesco.pe/file/CqSMk0kCC6weACBi4NNmvIPoViHyrjO8o7hEi7aFr09_hrJQspRYEeh91_Q2wWgoWwRHEe3ji1kHMQhu5dWWvSF4DbIB4z77esJL-TUHTo2aKep7ZKOjUadGJZi7TB33FUClqxCzxJF5s58sa_qE8kOAcFLPiGmzjd_xcT6Zhr7qSarvGXRNm8FqK3k1cPFkrxfIiZ8-bGehkY6nuVFqJsnJ2GqIuSTo73CLLsWYbJxA3M2RMnIMCfqKh0nOK9U8jtTA2sALZP7vC4_VwAQXMnp0pG9B0WlkM_HhQqInsXRdiKgb8jDFbIQazUJyyVkuFWAvz7heva6jveQ-i4MEiA	http_500
+https://cdn4.telesco.pe/file/54282f0407.mp4?token=YSOvwNjnhYuGmPNokEV-QIY0GOWX28hBL06V_amuIcIGZxjOLTi0_z5Xx611lzh1DbSOEyhBRh3IBCoMWrG1V4893BtMZ_1d0ZqPEb_Te_h59E5nukvUroI9LIr9Df09pDrFiaGq34DyFB2EB5I0ZS4QJQZagViBGAsFBi_CaUSsZMvwYUWzvSNSebVbY5NCGZ8yi8XjuJyHda5rBMcU9OpSqf1YEBmNPsnEqN26wvjQXr3E-mQESS51f4uQHpod6fPrVM9eP64iiD1L9oLZHATuqZxgJBD99ZjuCJgZlXNTyq8eBVURtK7QNyA8edSRE6OL9JqAOUZBwDCPFVwJoQ	http_500
+https://www.instagram.com/reel/DUIRc4aCkEz/?igsh=NTc4MTIwNjQ2YQ==	http_429
+https://api.github.com/cmc_internal/api	http_404
+http://asusiran.com/	request_failed
+https://radar.arvancloud.ir/	request_failed
