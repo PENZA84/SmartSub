@@ -9425,3 +9425,11 @@ https://www.instagram.com/reel/DUIRc4aCkEz/?igsh=NTc4MTIwNjQ2YQ==	http_429
 https://api.github.com/cmc_internal/api	http_404
 http://asusiran.com/	request_failed
 https://radar.arvancloud.ir/	request_failed
+
+=== 2026-06-28 04:48:42 - 失效订阅 (3 个) ===
+https://wulass.org/#/register?code=wK6v2ahH	request_failed
+http://1.4.2.56/	request_failed
+https://mafclub.online/fa/?btag=260368	request_failed
+
+=== 2026-06-28 04:49:37 - 失效订阅 (1 个) ===
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=d1911e8933384125cd61596883a37d76	request_failed
