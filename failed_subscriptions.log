@@ -9446,3 +9446,16 @@ https://sub.jjzsub01.com:30010/subscribe/f5532a8998a3540be40a6773f4411565	reques
 http://1.2.4.57/	request_failed
 https://camo.githubusercontent.com/1830bc98daa719db2da5ff1f7559383923eb60193aac1bfb354d3d442b26bcdb/68747470733a2f2f696d6167652e65726d616f2e6e65742f696d616765732f61727469636c652f6f683877776f6b6c2f696d6167652e706e67	request_failed
 https://free.datiya.com	request_failed
+
+=== 2026-06-30 05:17:55 - 失效订阅 (11 个) ===
+https://xn--9kqs1lo79d.com/#/register?code=1TdlDshz	http_403
+https://xn--9kqs1lo79d.com/#/register?code=z5vF00iB	http_403
+https://proxy.api.030101.xyz/befriends.one/ggbjgpy?token=7f30f19e6bfcfc8154e6675a992e5986	http_429
+https://windowsv1.com/s/?token=cb14cf34cce9663033005497b7f5649f	request_failed
+http://scamalytics.com/	http_403
+http://whoer.net/	http_403
+https://gitlab.torproject.org/tpo/applications/vpn/-/blob/main/CHANGELOG.md#beta-3-130beta	http_403
+https://hsy.zcamaf.com/api/v1/client/subscribe?token=e74fc421853933a2071020b196a80176#6T	http_403
+https://cdn4.telesco.pe/file/X6Up5dD-164HjZGTjf-896UuOIf128FMQInUItV6F9DMTYRW_uYriFCbRxwUU8xCnDwlWx6HRvzEMKqD7X6FidQbBE47YVS_ckxWEB7FBNKwyUX43M_R6rQD8Vb0KYleZlnJaEHiw5weJmPUHgnSTuZlHLxdIDUeYpxaWnw-pQoAaPBQF54DKQjow9dZLpdmHqEXWz5gax5AYYdHQfxrl26UD-sh-A8aANcjfus2HjkdOHNJTYMt3fup63lPCvl9A4A9HJFNtf8x7sbp6NzVg2_O1CDwC5glhlomD82pNyGmmL81WFk_CGUhnDQbRBERnab2_m0se2KBIBcQ8_ZsyQ	http_500
+https://sub.jjzsub01.com:30010/subscribe/a1e269010767762810f9fcaf5b8ddc56	request_failed
+https://sub.jjzsub01.com:30010/subscribe/bfbfa41d150aa8e1bb80ba5a059ec218	request_failed
