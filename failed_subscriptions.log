@@ -9489,3 +9489,30 @@ https://www.vpnbook.com/freevpn/wireguard-vpn	request_failed
 === 2026-07-02 05:17:59 - 失效订阅 (2 个) ===
 https://sub.xnyun.wiki/xxntoken=/567373f2007393d96313858a9ec5f114	http_404
 https://sni.868001.xyz/1ab205a0-3322-423a-9658-874e32194625	request_failed
+
+=== 2026-07-03 04:58:26 - 失效订阅 (16 个) ===
+https://huggingface.co/datasets/Anthropic/EconomicIndex	http_429
+https://huggingface.co/baidu/Unlimited-OCR	http_429
+https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B	http_429
+https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark	http_429
+https://www.npmjs.com/package/@genkit-ai/vercel-ai	http_403
+https://www.npmjs.com/package/genkit	http_403
+https://huggingface.co/datasets/Qwen/AgentWorldBench	http_429
+https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark	http_429
+https://su.gwzxwk.com/api/v1/client/subscribe?token=ab4a8870d3fb30476ab8cd8c131ea18e	request_failed
+http://%E5%90%B9%E9%9B%AA%E4%BA%91.com/	request_failed
+https://www.lenzbet1.xyz	http_403
+https://www.lenzbet1.xyz/	http_403
+http://deepseek.com/	http_202
+http://dizhi.applnn.com/	request_failed
+http://1.4.2.58/	request_failed
+https://www.githubstatus.com/	http_405
+
+=== 2026-07-03 04:59:19 - 失效订阅 (7 个) ===
+https://tt.vg/KY5Q4WO	request_failed
+https://tt.vg/cDxnjnV	request_failed
+https://tt.vg/mmF9RI0	request_failed
+https://tt.vg/bg2oV9R	request_failed
+https://tt.vg/xYGzMCu	request_failed
+https://tt.vg/qdCYv7O	request_failed
+https://tt.vg/zSEL6IA	request_failed
