@@ -9565,3 +9565,54 @@ http://bf142126-5bc4-46fa-986e-ffc4517655dd@nl-five.quiet-rogue.site:443/?encryp
 https://cdn4.telesco.pe/file/?token=D9MpYU6zHD6kDKVK7qbU4XVn1jhfqUDkCpjX-FpCPk4QlLvrABUPf9OO08ExV9bjURQfNC_ftWDvZ0dLEAyJBegVtbLIayrLgfVlBFuWk361QbLCAET7Oe8eDJMsz9XflDsiM7IOOSMZg3uhZgy5gzJp-UXZcg4uYck3MO-QAqKnOKihO-SJBvgYIVCcKX9D3UqGntLf4k8YM1a12FRmucSbVgI1qilBDLCTLtRzRPo-28hqTfJ1_jjQEGkqIF1LkmCb8NnT2_pGGx_Iz1NGZi-8ioA3lvFz7L20QjvkrUVRDuGmjPIzm3Bo-psJpOA7fETnUshPp9tArHnMG35NKA	http_404
 http://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080/#%20	request_failed
 http://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001/#%20	request_failed
+
+=== 2026-07-08 05:15:42 - 失效订阅 (45 个) ===
+https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf	http_404
+http://8.134.155.69:8707/200G.yaml	request_failed
+http://8.134.155.69:8707/70G.yaml	request_failed
+https://mailspeed.co/	request_failed
+https://mailspeed.co	request_failed
+https://www.tempinbox.xyz/	http_403
+https://temp-mail.org/	http_403
+https://tempail.com	http_403
+https://tempail.com/	http_403
+https://temp-mail.org	http_403
+https://www.mytrashmail.com	request_failed
+https://www.mytrashmail.com/	request_failed
+https://atomicmail.io	http_403
+https://www.tempinbox.xyz	http_403
+https://privatlab.com/	request_failed
+https://tempmailo.com	http_403
+https://privatlab.com	request_failed
+https://tg.lcvpn.sbs/?ch=105039	request_failed
+https://www.temp-mails.com	request_failed
+https://byom.de/trashmails	http_404
+https://www.trash-mail.com/	request_failed
+https://www.trash-mail.com	request_failed
+https://tempmailo.com/	http_403
+https://emaildrop.io/	request_failed
+https://atomicmail.io/	http_403
+https://emaildrop.io	request_failed
+https://www.temp-mails.com/	request_failed
+https://tg.lcvpn.sbs/?ch=105080	request_failed
+https://tg.lcvpn.sbs/?ch=105067	request_failed
+https://3x7.de/fragment	http_404
+https://tg.lcvpn.sbs/?ch=105062	request_failed
+https://tempmail.dev/	request_failed
+https://one-off.email	request_failed
+https://tempmail365.com	request_failed
+https://tempmail365.com/	request_failed
+https://cdn4.telesco.pe/file/qBa7UNHbEqihEyiGLt83UJE1nY-swh1JdfC2-m_voF62j9kYaDUNxReOcHmUTJIChSoGTEYVvC1aJLIA_p5ol9F4BQ8cKgvY1ltSrzw4vJdiWGfckyOstA0WLEEl4wURuC4XlX7khu0hctJ7Zc7EF-D1NQT5bG4DFFgfKCOyIx0saoQ4bl6yez9qBjjK3FQLKzlCE8ysqhu5bZNxTIccxeH_YeKwdILl6YR--J3SB2r-8pbGvS6kyauDxRNMl7ZhY1r3GfJcsZI__YC9Mtk5D41EuopmvZ_MCfT1tDLPMIF7BKS39n0dOfCIMFv0trMVfHspF0aB1Z7i3WFWBRyg-g	http_500
+https://tempmail.dev	request_failed
+https://incognitomail.com	request_failed
+https://incognitomail.com/	request_failed
+https://cdn4.telesco.pe/file/?token=jzf7Mejg_FLyQjoAqpaIpfrCAEEleVoC2CQH0yOgpgWTm9JkmlM_cMZl_btlCCWM6KrY-3XL5w1kmkjNrxQWG0DPDTZJ1XFTaNLxnDDvct6zfN-CTcJ1vVsyGZU4e1ZKEQNB6Ch8qbEFhUCxXaX0G3FyLSfrEpntmby_J8UdOBisDMHkiL7S5ADx7EP4Vd_GsGHhgw-0jr0SDNEwJR6Zy5FS275Tf2q2NS_zcsKbHg3jp1h209gLajX8by3MHhE0E4DeyTN-RKi0JaJ18qaNxaki2npXy850Xn4rAep3Bu2peJsSNf66yS0oZqE--4JQwbmumEuleD7dv6m9T4pHPQ	http_404
+https://one-off.email/	request_failed
+https://cdn4.telesco.pe/file/8983bce5d9.webp?token=Masqz2PEaEmqXry_Zsl4yyA0R-juYQuTjoBZxaziKWrCNuxgoY6PRa_L3lk3ACDeaYYExKCAcxrHUWzaF43hdw-Frlwp4XUwT_7Bz-TnhdE1C_nu1--60H5UA3rgSld2fRvYsqV3qi6iDtwra0USruyqXesENhVTZNyI7BPyDI4qKJe9yAGSpV9z6HgbMxadC-cTn2VMBPgjhWnoWqDoXtEW0tpyj6Y5WhhXXSp_i9Tl89vYmYoQtFnnM-JdP1z9dNm7T0Tf2vbo8r6ETIWWO9O6cocOlQDcdOojlwUviEZzjCsWSj-729leliTSDQI2C8rpk3vXIy6OhAcgpndMww	http_500
+https://www.dispostable.com	request_failed
+https://www.dispostable.com/	request_failed
+https://cdn4.telesco.pe/file/8983bce5d9.webp?token=Aq_UKLUuRSLfmtUGjJUVp1hcq6TcYECu9nniiO9tOHXs8CfppjHHMHucAgrHcDbef-Jr9Mb5cGUtW-qgk6RyX3EilcgKlmjT_ABTCM3avFb-OEnwxMrSWFYLAi1XoZCCOZmUTy4NY6sphHwFWFJvOkpK5tWoxl3Ntd0einiI9vu2wtZXkjX9CGygzfHb2pcUciJPzvYt6gJyBJQ55Di4Fpps0rohAG2lCjVTHPZtEzyXS1M7bGnqDxfwtDaIcoOJjvP9wz43aGfb8WMPQv8q0qfXgZKI8NiD1OOG9BWIK03e3OibqOaDUdzhhKbTn31ss2VZGseKXiJkGKnixbevrA	http_500
+
+=== 2026-07-08 05:16:40 - 失效订阅 (2 个) ===
+https://3cc4f296.wyxhuawei.com/subscribe/clash/add1d3789cb7a8b05a00851d156873f9	http_403
+https://dash.pqjc.site/api/v1/pq/253330243f1b11c9899c4bd380abe232	http_403
