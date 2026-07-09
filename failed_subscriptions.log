@@ -9632,3 +9632,10 @@ https://www.interactivebrokers.com/en/trading/ai-integrations.php	request_failed
 https://raw.githubusercontent.com/baipiao0/baipiao02/main/v2ray	http_429
 https://raw.githubusercontent.com/codingbox/Free-Node-Merge/main/node.txt	http_429
 https://wulan.sbs/s/ef8c31d3087461b2c90769131f2ea4e2	http_403
+
+=== 2026-07-10 05:10:42 - 失效订阅 (2 个) ===
+https://e.lllm.dpdns.org/sub?token=c85b063ee357e64646695afbe0dcfb90&amp;b64	http_429
+https://kaze1.aisaka-taiga.com/oosaka/35978e24974cc0a4059bac0f8562f59a	http_404
+
+=== 2026-07-10 05:11:31 - 失效订阅 (1 个) ===
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml	http_403
