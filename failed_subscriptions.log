@@ -9666,3 +9666,22 @@ https://api.kuaimiaov4.com/ai26/48497dc2665d48923a7a9ec9f354dda8#UA=1	http_403
 https://cdn4.telesco.pe/file/anu4GICeo_dKw93_pB92NQErYM7F9syAOWjcer1sC0J-zY4ftTwRiLoJ3GcqPRcGLCcg9VShVaNB_shLzCq1UhVrg62s0nozZCgtEDSquHhHnSRTCl6JhKxtiO9--hCMIyfU-urFhZvjZzghwl4WA3Oji6I-pUYqLJbdSBDrZryjPOjCGUL2HPzyhUMj_AkNLuwDOYjyuE6WQB-jCg_V8GgoGMJCNFD2AqKhmPnrw3ZmPtlO06Qh2N_I0zZu5_siyq6XoHvztxjx2lrRuCcQIf-7ucvV_YbhAQl-6RFQ6gMy-JD9V-T1-YBSEF8nCPNxwqdg_RYjxtjtCSmPXwNBKw	http_500
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vless.txt	request_failed
 https://pxypool.131433.xyz/clash/proxies	request_failed
+
+=== 2026-07-13 04:35:43 - 失效订阅 (14 个) ===
+http://tvbox	request_failed
+http://tvbox.%E7%8E%8B%E4%BA%8C%E5%B0%8F%E6%94%BE%E7%89%9B%E5%A8%83.top/	request_failed
+https://subapi.cmliussss.net/sub?target=clash&amp;url=https%3A%2F%2Flzwnb.ccwu.cc%2Fsub%3Ftoken%3D5f42ab68b75ce7a2016dbd2361369aaf&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Mini.ini&amp;filename=TG%EF%BC%9A%40lzwpy&amp;emoji=true&amp;list=false&amp;xudp=false&amp;udp=false&amp;tfo=false&amp;expand=true&amp;scv=false&amp;fdn=false&amp;new_name=true	http_400
+https://apa.dyljstar.sbs/s/16fa53bd162a2713318d3fcc4d5a5531	http_403
+https://free.xlajiao.xyz/user/profile/data/529f50627a7424eed448a513cfa03a60	request_failed
+https://a95e9198-0671-11f0-9426-f23c932f2c32:a95e9198-0671-11f0-9426-f23c932f2c32@6caf5d3d-thx0g0-tkyblq-azvy.cldvpuk.cdnbytescm.com/#%F0%9F%87%AC%F0%9F%87%A7%20%E7%9B%B4%E8%BF%9E%20%7C%20%E4%BC%A6%E6%95%A6	http_403
+https://jsnzkpg.github.io/	http_404
+https://jsnzkpg.github.io	http_404
+https://video.monikacloud.net/skt/be1b7c0573d93e567b9da080c36b0d5d	http_403
+https://codeberg.org/SMH01/ProtonVPN-Next-CLI	http_403
+https://a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1a:a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1a@ec736d7b-t9zts0-tb08pe-luwe.uk.oshuawei.com:443?sni=ec736d7b-t9zts0-tb08pe-luwe.uk.oshuawei.com#%F0%9F%AA%AF51@oneclickvpnkeys	http_403
+https://apps.apple.com/us/app/azaditunnel/id6776486891?l=en-GB	request_failed
+https://www.lenzbet1.space	http_403
+https://www.lenzbet1.space/	http_403
+
+=== 2026-07-13 04:36:31 - 失效订阅 (1 个) ===
+https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml	http_404
