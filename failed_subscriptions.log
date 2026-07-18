@@ -9769,3 +9769,57 @@ https://v2rayse.com/fs/public/20260407/4s7cd9k.yaml	request_failed
 https://v2rayse.com/fs/public/20260415/ird23xo.yaml	request_failed
 https://v2rayse.com/fs/public/20260511/free-node-share-0800.yaml	request_failed
 https://v2rayse.com/fs/public/20260519/7dlugydl.yaml	request_failed
+
+=== 2026-07-19 04:37:50 - 失效订阅 (9 个) ===
+https://www.ia.ac.cn/xwzx/ttxw/202607/t20260718_8251674.html	request_failed
+https://windowsv1.com/s/?token=ef4ebba486b282e3270d3fc8d3140f49	request_failed
+http://103.36.135.125:8123/api/v1/client/subscribe?token=2a6d47a7472af6c6c29d7bc56a859ebf	http_404
+https://a95e9198-0671-11f0-9426-f23c932f2c32:a95e9198-0671-11f0-9426-f23c932f2c32@5c78e09e-thxmo0-tjdj5q-azvy.cldvpuk.cdnbytescm.com:443?sni=5c78e09e-thxmo0-tjdj5q-azvy.cldvpuk.cdnbytescm.com#%F0%9F%A5%8950@oneclickvpnkeys	http_403
+https://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9:3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@395fb49a-ta1og0-tb5rbt-1kcpe.uk.oshuawei.com:443?sni=395fb49a-ta1og0-tb5rbt-1kcpe.uk.oshuawei.com#%F0%9F%A5%8967@oneclickvpnkeys	http_403
+https://a95e9198-0671-11f0-9426-f23c932f2c32:a95e9198-0671-11f0-9426-f23c932f2c32@c0a5bcb4-thtxc0-ths4hq-azvy.cldvpuk.cdnbytescm.com:443?sni=c0a5bcb4-thtxc0-ths4hq-azvy.cldvpuk.cdnbytescm.com#%E2%9A%99%EF%B8%8F92@oneclickvpnkeys	http_403
+https://cdn4.telesco.pe/file/f952e1d7c1.mp4?token=lwQYp8_gj5aNqs5c1Blwi4imx_J_rAppGdFfrinljZZTSry5AUJPMGA0gjZ_NzKmepaC2y9REfa5XptAXwhDM26JwT1DkaDskyPj8tvpTFULxgon7fQOppLVmiOYLRq81sdtuv9LeWf5m4rZWa-fb-UHT5Lw-Xzxw6y4L8Mnc96FW8EiCi8v9-yp69a_elcI4OeYQUUDzjB0LXgB8i6YHLsohlmfwymVTpbza3j754dhRqQtN7nIqaqtLIYmBOTsAIM-deP8Ha0UTHegwtHuRnmwJ5MBaEF1sAQNvYZ4Hf-4-eh2vcTq1nP_K50gQ3Gt6_5Sdcc7eJBkd1xpq8kF7g	http_500
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1	http_429
+https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Kingdom/config.txt	http_404
+
+=== 2026-07-19 04:38:42 - 失效订阅 (41 个) ===
+https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app	request_failed
+https://raw.githubusercontent.com/ronghuaxueleng/get_v2/main/pub/combine.yaml	request_failed
+https://nodebuf.com/files/public/cmrc10rgd2e4aao5wtu1kiuhq/download	http_429
+https://nodebuf.com/files/public/cmralkjo41wxtao5w88m49pti/download	http_429
+https://nodebuf.com/files/public/cmrevvucx0obvpi5wwgbocmla/download	http_429
+https://nodebuf.com/files/public/cmrh12m701fsapi5whkiuu1dz/download	http_429
+https://nodebuf.com/files/public/cmrdgfrgl04g8pi5w7bwl10ix/download	http_429
+https://nodebuf.com/files/public/cmrighmbl1z1rpi5w9piotxol/download	http_429
+https://nodebuf.com/files/public/cmrj67pze28c4pi5wyrg6vucz/download	http_429
+https://nodebuf.com/files/public/cmrjvxtn12g8epi5warokrxf4/download	http_429
+https://nodebuf.com/files/public/cmrngjrzd3vsvpi5wq4ud7x46/download	http_429
+https://nodebuf.com/files/public/cmrovyrbx4fzgpi5wbl8p7p2x/download	http_429
+https://v2rayse.com/fs/public/20260422/free-node-share-0800.txt	http_429
+https://x.v50.lat/view.php?id=6c9a78e86e19bf29	request_failed
+https://v2rayse.com/fs/public/20260426/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260429/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260430/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260430/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260504/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260502/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260503/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260508/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260506/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260509/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260508/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260510/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260518/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260516/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260519/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260519/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260515/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260523/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260527/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260524/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260527/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260528/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260530/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260531/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260525/free-node-share-2000.txt	http_429
+https://raw.githubusercontent.com/zhlx2835/freefq/main/v2	request_failed
+https://x.v50.lat/view.php?id=76c6ea8eadae8a7b	request_failed
