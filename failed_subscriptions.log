@@ -9946,3 +9946,21 @@ http://dash.tero.homes/	request_failed
 
 === 2026-07-27 04:45:51 - 失效订阅 (1 个) ===
 https://mojie.app/api/v1/client/subscribe?token=bd5c3115c5f1c932a7a0a1fa902f597c	http_403
+
+=== 2026-07-28 05:02:07 - 失效订阅 (12 个) ===
+https://ss88.beifengyuns.top/s/42ce88997358bc70364ec456ab27a3da	http_403
+https://v1.mk/swJmUKN	http_502
+https://reference-url-citation.invalid/8	request_failed
+https://reference-url-citation.invalid/6	request_failed
+https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7	http_403
+https://reference-url-citation.invalid/7	request_failed
+http://%3D@36.224.184.245:50099/#%40Napsternetvirani%20	request_failed
+https://cdn4.telesco.pe/file/fd007ee273.mp4?token=k3fn47dwgUmCyN0r-lzaqi2-KFKhuVvwi5jlJ-AEDuSFKTCq2-4eMJHarYDSCqlSKGcNeQiNPnq-X-_Ui3wdE443f4Hv4BYF7k1rTgBY6-SZD9WzmFmGD3rd5cm1ltGbUDSL1T7zV_PZF4iN0szuSfrzZR2Nzva-t_cS4LGf0a22VussnjkIreOXzHCk37UipJH9mQXID2eQZWzbHmZpbUWkbq-ItZhSXaq3_eWvoa8F12ONySb00qZL5JBtY55YT3rzNoxzrwK7ZhjbeFVQLfZvjhorT682LpjEEspbkJpQOzIS2oJyo4PNZtSV6jWqStX6YDMNot4tJ_Z9cSgzYBuPxmD2vNnFB6VNKSL4Iy6lyZwqaKyB8SF750XFi_k9RY8FZTkMNlP8S3kZ0_W3nzFa6qA2B85CFUsN9ZYb92jAKgKxo2Gh2JTA7Onpm8JHeb3lSYbSKYLtiaxlOS-RBxU-YqmQAGOqASFcsVQrGCZDclPnFjAbWe_9XYFFLSA6Cxbpju429J4FceR1aqZVAsxH0KcxaJXWEu2etyuyTpsAUZu9Dw4GhoKCrzZ-Wh3D2IYvVavTXN3gH7sxdG4NoIezlkDeGKSd2YSZh-2XN72qIXB0ifpBimxi4afWH0Tf2__OftIyKfZZLjezeNe80p9y2jvQ6qFre4CQn034uVg	http_500
+http://5.0.0.5/	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L29-L31	http_429
+https://qijia.qhrgobull.fun/#/register?code=49oHYkMj	request_failed
+https://ransa.niubiliuliuliuwocao.a.kuaivpn.app/#/register?code=or0g9rly	request_failed
+
+=== 2026-07-28 05:02:57 - 失效订阅 (2 个) ===
+https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864	request_failed
+https://owo1.ffokcksp.cc/s/e18e64e9bb8f4ea2cd97c986c1b887d4	http_403
